@@ -1,0 +1,2 @@
+https://github.com/devkimchi/ASP.NET-Core-HTTP-Request-Handler-Sample/blob/master/src/HttpRequestHandlerSample.WebApp/Middlewares/HttpRequestHeaderHandlerMiddlewareOptions.cs
+

@@ -1,0 +1,10 @@
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/bin/Debug/netcoreapp1.1/web.api.01.deps.json
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/bin/Debug/netcoreapp1.1/web.api.01.runtimeconfig.json
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/bin/Debug/netcoreapp1.1/web.api.01.runtimeconfig.dev.json
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/bin/Debug/netcoreapp1.1/web.api.01.dll
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/bin/Debug/netcoreapp1.1/web.api.01.pdb
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/obj/Debug/netcoreapp1.1/web.api.01.csprojResolveAssemblyReference.cache
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/obj/Debug/netcoreapp1.1/web.api.01.csproj.CoreCompileInputs.cache
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/obj/Debug/netcoreapp1.1/web.api.01.AssemblyInfo.cs
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/obj/Debug/netcoreapp1.1/web.api.01.dll
+/Users/geek/dev/asp.net.core/web.api.01/web.api.01/obj/Debug/netcoreapp1.1/web.api.01.pdb
